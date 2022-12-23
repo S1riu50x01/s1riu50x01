@@ -1,10 +1,14 @@
+<p align="center">
+<img src="https://www.asus.com/microsite/all-in-one-liquid-cooling/websites/img/campaign/gallery/ryujin-ii/8bit.gif" width="40%" height="40%"/>
+</p>
 
-### Olá! Eu sou o **Renan Silva**! 👋
+<h2 align="center">Olá! 🔥 Eu sou o <b>Renan Silva</b>! 👋</h2>
 
 <div>
     <a href="https://github.com/s1riu50x01">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s1riu50x01&show_icons=true&theme=radical"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1riu50x01&layout=compact&langs_count=8&theme=radical"/>
+</div>
 
 ![Snake animation](https://github.com/s1riu50x01/s1riu50x01/blob/output/github-contribution-grid-snake.svg)
 
