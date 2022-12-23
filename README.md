@@ -7,6 +7,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1riu50x01&layout=compact&langs_count=8&theme=radical"/>
 
 ![Snake animation](https://github.com/s1riu50x01/s1riu50x01/blob/output/github-contribution-grid-snake.svg)
+
+![bar](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
  
 ## **Skills**
 
